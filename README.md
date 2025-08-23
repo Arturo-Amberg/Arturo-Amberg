@@ -1,6 +1,8 @@
-﻿Repositorio Introducción
 
-# ¡Hola! 👋 Soy Arturo Amberg
+ 
+# Mi Introducción
+
+¡Hola! 👋 Soy Arturo Amberg
 
 Soy **Ingeniero Industrial y Científico de Datos**. Actualmente curso mi **Máster en Data Science** y tengo experiencia en **análisis de datos, machine learning y proyectos de consultoría** en distintas industrias.  
 
@@ -13,5 +15,6 @@ Fuera del trabajo, disfruto de:
 - 🏋️ Ir al gimnasio y entrenamientos HIIT  
 - 🎾 Tenis, golf y running  
 - 🍺 Elaborar mis propias cervezas artesanales  
+
 
 
