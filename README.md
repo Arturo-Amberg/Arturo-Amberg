@@ -14,7 +14,18 @@ Fuera del trabajo, disfruto de:
 - ⚽ Jugar y ver fútbol  
 - 🏋️ Ir al gimnasio y entrenamientos HIIT  
 - 🎾 Tenis, golf y running  
-- 🍺 Elaborar mis propias cervezas artesanales  
+- 🍺 Elaborar mis propias cervezas artesanales
+
+  
+## 🛠️ Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=MySQL&logoColor=white)
+
+## 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
 
 
 
